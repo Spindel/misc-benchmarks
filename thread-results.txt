@@ -1,0 +1,9 @@
+1 thread:
+	Total time signing, 0:27:48.250417
+
+2 threads:
+	Total time signing, 0:16:19.023756
+
+4 threads:
+	Total time signing, 0:13:51.150785
+
